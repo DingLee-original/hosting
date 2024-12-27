@@ -1,7 +1,7 @@
 # The Gig Genius...
 
 ### Page 1'st that is login :- 
-``` info.html ``` 
+``` index.html ``` 
 ### teamembers :-
 
 ``` aafsan : aafsan@123 ```<br>
@@ -11,9 +11,9 @@
 
 ### teachers :-
 ``archana : archan@123``<br>
-``rekha : rekha"123``<br>
-``bharni : bharni"123``<br>
-``arnab : arnab"123``
+``rekha : rekha@123``<br>
+``bharni : bharni@123``<br>
+``arnab : arnab@123``
 
 ### You vist us from the below link
 `` linearsearch.me
