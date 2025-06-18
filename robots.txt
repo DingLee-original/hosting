@@ -1,0 +1,5 @@
+#not made my Ai
+User-agent: *
+Disallow:
+sitemap: https://subdomain.linearsearch.me/sitemap.xml
+
