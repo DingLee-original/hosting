@@ -1,21 +1,40 @@
-# The Gig Genius...
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
 
-### Page 1'st that is login :- 
-``` index.html ``` 
-### teamembers :-
+## ( <kbd> [Mini Project](https://subdomain.linearsearch.me) ↗️ </kbd>) => (
 
-``` aafsan : aafsan@123 ```<br>
-``` mahaveer : mahaveer@123 ```<br>
-``` niranjan : niranjan@123 ```<br>
-``` priyanshu : priyanshu@123 ```
+## Aim/Goals
+1. The project aims to make 
+a replica of freelancing websites
+2. To some hand on experience on building stuffs
 
-### teachers :-
-``archana : archan@123``<br>
-``rekha : rekha@123``<br>
-``bharni : bharni@123``<br>
-``arnab : arnab@123``
 
-### You vist us from the below link
-`` subdomain.linearsearch.me
-``
+## Teckstack Used
++  HTML5
++ CSS
++ JavaScript
 
+## Team Members
+> priyanshu => deployment and maintanece ( *if( you find some crappy js ) { then blame me :wink: *} 
+<br>
+
+> niranjan => HTML and CSS ( *if( you like UI ) { then thanks me :blush: *} )
+<br>
+
+> mahaveer => took the lead in presentation 
+<br> 
+
+>aafsan => the report work 
+<br>
+
+## )( <kbd> [site live at](https://subdomain.linearsearch.me) ↗️ </kbd> )
+
+#
+
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+## To Contact Me 
+*{Here's my mail priyanshu6076@gmail.com}*
+
+*{Have a great day ahead}*
