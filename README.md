@@ -1,7 +1,7 @@
 > [!WARNING]
 > Urgent content that requires immediate user focus due to possible risks.
 
-## ( <kbd> [Mini Project](https://subdomain.linearsearch.me) ↗️ </kbd>) => (
+## ( <kbd> [Mini Project](https://dinglee-original.github.io/hosting/) ↗️ </kbd>) => (
 
 ## Aim/Goals
 1. The project aims to make 
@@ -27,7 +27,7 @@ a replica of freelancing websites
 >aafsan => the report work 
 <br>
 
-## )( <kbd> [site live at](https://subdomain.linearsearch.me) ↗️ </kbd> )
+## )( <kbd> [site live at](https://dinglee-original.github.io/hosting/) ↗️ </kbd> )
 
 #
 
